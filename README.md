@@ -9,3 +9,5 @@ readme
 1. 26
 
 ## about
+1. Ulsan
+1. Ulsan University
