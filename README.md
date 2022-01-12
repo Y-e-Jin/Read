@@ -12,3 +12,5 @@ readme
 1. Ulsan
 1. Ulsan University
 1. major in IT
+
+## license
