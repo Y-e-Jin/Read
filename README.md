@@ -1,19 +1,22 @@
 # Read
 readme
 
-## profile
+## Profile
 1. Lee
 1. Ye Jin
 1. 2001
 1. 03
 1. 26
 
-## about
+## About
 1. Ulsan
 1. Ulsan University
-1. major in IT
+1. Major in IT
 
-## license
+## License
 1. MSAC
 
-## intership
+## Intership
+...
+NO
+...
