@@ -16,7 +16,7 @@ readme
 ## License
 1. MSAC
 
-## Intership
+## Internship
 ...
 NO
 ...
